@@ -1,7 +1,4 @@
-/* 
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/javascript.js to edit this template
- */
+
 
 
 var jpdbBaseURL = 'http://api.login2explore.com:5577';
@@ -9,7 +6,7 @@ var jpdbIRL = '/api/irl';
 var jpbdIML = '/api/iml';
 var studentDatabaseName = 'SCHOOL-DB';
 var studentRelationName = 'STUDENT-TABLE';
-var connectionToken = '90938308|-31949273657875192|90952289';
+var connectionToken = '90931947|-31949300636617708|90960880';
 
 $('#rollNo').focus();
 
